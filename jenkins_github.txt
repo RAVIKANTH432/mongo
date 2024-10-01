@@ -1,0 +1,3 @@
+echo "uploading from GitHub"
+sleep 15
+echo "uploaded successfully"
